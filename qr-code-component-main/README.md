@@ -6,7 +6,7 @@ Este es mi primer desafío de [Frontend Mentor](https://www.frontendmentor.io/),
 
 ## 📸 Vista previa
 
-![Vista previa del proyecto](./images/image-qr-code.png)
+![Vista previa del proyecto](preview.jpg)
 
 Puedes ver el proyecto en vivo aquí:
 👉 **[Demo online](https://mtrjoel.github.io/Frontend-Mentor/)**
