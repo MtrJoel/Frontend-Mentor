@@ -33,7 +33,8 @@ Durante este desafío reforcé mis conocimientos sobre:
 * **HTML5**
 * **CSS3**
 * **Google Fonts (Outfit)**
-* **Git / GitHub Pages**
+* **Git**
+* **Vercel / Despligue**
 
 ---
 
