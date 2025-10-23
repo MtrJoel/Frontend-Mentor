@@ -9,7 +9,7 @@ Este es mi primer desafío de [Frontend Mentor](https://www.frontendmentor.io/),
 ![Vista previa del proyecto](preview.jpg)
 
 Puedes ver el proyecto en vivo aquí:
-👉 **[Demo online](https://mtrjoel.github.io/Frontend-Mentor/)**
+👉 **[Demo online](https://componente-qr-joelm.vercel.app/)**
 
 Repositorio del código:
 👉 **[Ver en GitHub](https://github.com/MtrJoel/Frontend-Mentor)**
